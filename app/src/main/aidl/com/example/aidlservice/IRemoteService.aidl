@@ -16,5 +16,6 @@ interface IRemoteService {
     int getPid();
 
     void save(in Person person);
+
     Person getPerson();
 }
