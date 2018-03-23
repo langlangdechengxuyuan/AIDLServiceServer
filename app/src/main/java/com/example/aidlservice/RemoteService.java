@@ -24,6 +24,4 @@ public class RemoteService extends Service {
         return mRemoteBinder;
     }
 
-
-
 }
